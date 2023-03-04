@@ -56,12 +56,12 @@ body {
 	}
 
 #cabecalho {
-    width: 1420px;
+    width: 1650px;
     margin-left: -11px;
 }
 
 #clear {
-	width: 1600px;
+	width: 1650px;
     margin-left: -11px;
 }
 .cardapio {
@@ -648,10 +648,6 @@ input[type="submit"]:hover {
 	text-decoration: none;
 	font-size: 11px;	
 }
-
-
-
-
 
 
 
