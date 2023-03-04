@@ -72,21 +72,21 @@ body {
 	display: flex;
     flex-wrap: wrap;
     margin-top: 220px;
-	margin-left: 280px;
+	margin-left: 268px;
 }
 .cardapio3 {
 	display: flex;
     flex-wrap: wrap;
     margin-top: 410px;
     justify-content: center;
-	margin-left: 280px;
+	margin-left: 268px;
 }
 .cardapio4 {
 	display: flex;
     flex-wrap: wrap;
     justify-content: center;
 	margin-top: 115px;
-	margin-left: 280px;
+	margin-left: 23px;
 }
 
 h2 {
