@@ -584,10 +584,11 @@ input[type="submit"]:hover {
 	float: left;
 }
 .footer {
-    position: relative;
-    bottom: 0;
-    width: 100%;
-	margin-top: 260px;
+	position: relative;
+    	bottom: 0;
+   	 width: 100%;
+    	margin-top: 490px;
+    	margin-left: 30px;
  
 }
 
